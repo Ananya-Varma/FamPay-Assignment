@@ -1,0 +1,14 @@
+from django.conf import settings
+
+QUERY = "Memes"
+
+FILENAME = "date.txt"
+
+MAX_RESULTS = 10
+
+YOUTUBE_API_VERSION = settings.YOUTUBE_API_VERSION
+
+YOUTUBE_API_SERVICE_NAME = settings.YOUTUBE_API_SERVICE_NAME
+
+DEVELOPER_KEY = settings.DEVELOPER_KEY
+
