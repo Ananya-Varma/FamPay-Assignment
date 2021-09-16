@@ -1,2 +1,0 @@
-Django==3.2.7
-google_api__python_client==2.21.0
