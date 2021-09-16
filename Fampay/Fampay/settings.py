@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-bx%m1a@+u^+l0ulv^tcn@e@^_2ggh7m450c+-jt^d)v2-o^-0@'
 
 # API Key for YouTube API
-DEVELOPER_KEY = "AIzaSyDzFcGS7d2_n3DkW6p9wI3AVSmrGQvSPO0"
+DEVELOPER_KEY = "AIzaSyAoVslmfOPD7q6xProiMGvLZDlCo_1TqQs"
 
 # Name of the API Service
 YOUTUBE_API_SERVICE_NAME = "youtube"
